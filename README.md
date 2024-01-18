@@ -12,7 +12,7 @@ Setup Instructions
 
 -Clone the repository to your local machine.
 Copy code
-git clone https://github.com/your-username/SwiftCourier.git
+git clone https://github.com/AmmarMorched/SwiftCourier.git
 Open the project in Android Studio.
 
 Build and run the app on an Android emulator or a physical device.
